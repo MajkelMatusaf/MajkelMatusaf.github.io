@@ -3,5 +3,5 @@ body {background: #000 url("../img/bg.jpg") no-repeat center top;}
 #menu li {float:left;padding-right:22px}
 #menu li a {display:block;font-size:24px;color:#05080a;line-height:1.2em;text-decoration:none}
 #menu li span {font-size:30px;display:inline-block;margin-top:-4px}
-#menu li a:hover, #menu #menu_active a {color:#6a0000}
-.main {margin:0 auto;width:920px}
+#menu li a:hover, #menu #menu_aktywne a {color:#6a0000}
+.menu_glowne {margin:0 auto;width:920px}
