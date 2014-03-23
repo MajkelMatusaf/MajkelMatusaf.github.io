@@ -1,5 +1,5 @@
 body {background: #000 url("../img/bg.jpg") no-repeat center top;}
-#menu {font:italic bold 26px georgia, sans-serif;padding:30px}
+#menu {font:italic bold 26px georgia, sans-serif;padding:30px;list-style:none}
 #menu li {float:left;padding-right:42px}
 #menu li a {display:block;font-size:24px;color:#05080a;line-height:1.2em;text-decoration:none}
 #menu li span {font-size:30px;display:inline-block;margin-top:-4px}
@@ -7,11 +7,21 @@ body {background: #000 url("../img/bg.jpg") no-repeat center top;}
 .strona {margin:0 auto;width:920px}
 #logo {background:url(../img/logo.jpg) no-repeat;width:459px;height:44px}
 #box{background:url(../img/bg_box.png) no-repeat;width:322px;height:55px}
-#autor{background:url(../img/autor.png) no-repeat;width:260px;height:380px}
 h1 {margin-top:100px;margin-left:70px}
 h2 {font-size:34px;line-height:58px;padding-left:62px}
-h3{margin-left:100px}
 #kartka {text-align:justify;width:460px;margin-left:70px;margin-top:170px;line-height:30px}
 #kartka span {font-size:28px;display:inline-block;margin-top:-4px}
-#stopka {font-size:12px;color:#a3a3a3;margin-top:240px;margin-left:200px}
+.fiszka li {box-shadow:0 -1px 0 2px hsla(0,0%,0%,.03);list-style:none;position:absolute}
+.fiszka input {display:none}
+.fiszka label {background-color:#111;background-image:linear-gradient(transparent,hsla(0,0%,0%,.25));border:.2em solid transparent;bottom:.5em;border-radius:100%;cursor:pointer;display:block;height:.5em;left:24em;opacity:0;position:absolute;transition:.25s;width:.5em;visibility:hidden;z-index:10}
+.fiszka label:after {border-radius:100%;bottom:-.2em;box-shadow:inset 0 0 0 .2em #111,inset 0 2px 2px #000,0 1px 1px hsla(0,0%,100%,.25);content:'';left:-.2em;position:absolute;right:-.2em;top:-.2em}
+.fiszka:hover label {opacity:1;visibility:visible}
+.fiszka input:checked +label {background-color:#fff}
+.fiszka:hover li:nth-child(1) label {left:.5em}
+.fiszka:hover li:nth-child(2) label {left:2em}
+.fiszka:hover li:nth-child(3) label {left:3.5em}
+.fiszka:hover li:nth-child(4) label {left:5em}
+.fiszka img {height:449px;opacity:0;transition:.25s;width:337px;vertical-align:top;visibility:hidden}
+.fiszka li input:checked ~img {opacity:1;visibility:visible;z-index:10}
+#stopka {font-size:12px;color:#a3a3a3;margin-top:640px;margin-left:200px}
 #stopka a {color:#a3a3a3;text-decoration:none}
