@@ -24,5 +24,5 @@ h2 {font-size:34px;line-height:58px;padding-left:62px}
 .fiszka:hover li:nth-child(4) label {left:5em}
 .fiszka img {height:449px;opacity:0;transition:.25s;width:337px;vertical-align:top;visibility:hidden}
 .fiszka li input:checked ~img {opacity:1;visibility:visible;z-index:10}
-#stopka {font-size:12px;color:#a3a3a3;margin-top:640px;margin-left:200px}
+#stopka {font-size:12px;color:#a3a3a3;margin-top:580px;margin-left:200px}
 #stopka a {color:#a3a3a3;text-decoration:none}
