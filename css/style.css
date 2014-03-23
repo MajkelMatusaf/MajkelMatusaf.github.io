@@ -1,9 +1,12 @@
 body {background: #000 url("../img/bg.jpg") no-repeat center top;}
 #menu {font: italic bold 26px georgia, sans-serif;padding:30px}
-#menu li {float:left;padding-right:22px}
+#menu li {float:left;padding-right:42px}
 #menu li a {display:block;font-size:24px;color:#05080a;line-height:1.2em;text-decoration:none}
 #menu li span {font-size:30px;display:inline-block;margin-top:-4px}
 #menu li a:hover, #menu #menu_aktywne a {color:#6a0000}
-.menu_glowne {margin:0 auto;width:920px}
-#logo {display:block;background:url(../img/logo.jpg) no-repeat;width:459px;height:44px}
+.strona {margin:0 auto;width:920px}
+#logo {background:url(../img/logo.jpg) no-repeat;width:459px;height:44px}
+#box{background:url(../img/bg_box.png) no-repeat;width:322px;height:55px}
 h1 {margin-top:100px;margin-left:70px}
+h2{}
+#kartka {text-align:justify;width:460px;margin-left:70px;margin-top:170px}
