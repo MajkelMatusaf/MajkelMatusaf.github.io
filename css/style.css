@@ -7,8 +7,8 @@ body {background:#000 url("../img/tlo.jpg") no-repeat center top}
 .strona {margin:0 auto;width:920px}
 #logo {background:url(../img/logo.jpg) no-repeat;width:459px;height:44px}
 #plaster{background:url(../img/plaster.png) no-repeat;width:322px;height:55px}
-#salon_margaretka{background:url(../img/salon_margaretka.png) no-repeat;width:160px;height:160px;margin-top:-5px;margin-left:-10px}
-#zsoio{background:url(../img/zsoio.png) no-repeat;width:160px;height:155px;margin-top:-175px;margin-left:164px}
+#salon_margaretka{background:url(../img/salon_margaretka.png) no-repeat;width:135px;height:133px;margin-top:-10px;margin-left:85px}
+#zsoio{background:url(../img/zsoio.png) no-repeat;width:135px;height:126px;margin-top:10px;margin-left:85px}
 h1 {margin-top:100px;margin-left:70px}
 h2 {font-size:26px;line-height:58px;padding-left:85px}
 h3 {font-size:26px;line-height:58px;padding-left:60px}
@@ -30,5 +30,5 @@ h3 {font-size:26px;line-height:58px;padding-left:60px}
 #banery{margin-left:620px;margin-top:-300px}
 #filmik_pierwszy{margin-top:17px;margin-left:5px;border:0.5mm ridge #000;background:#000}
 #filmik_drugi{margin-top:27px;margin-left:5px;border:0.5mm ridge #000;background:#000}
-#stopka {font-size:12px;color:#a3a3a3;margin-top:150px;margin-left:200px}
+#stopka {font-size:12px;color:#a3a3a3;margin-top:5px;margin-left:200px}
 #stopka a {color:#a3a3a3;text-decoration:none}
