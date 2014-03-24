@@ -24,8 +24,8 @@ h2 {font-size:34px;line-height:58px;padding-left:62px}
 .fiszka:hover li:nth-child(4) label {left:5em}
 .fiszka img {height:449px;width:337px;vertical-align:top;visibility:hidden;border-radius:20px 20px 20px 20px}
 .fiszka li input:checked ~img {opacity:1;visibility:visible;z-index:10}
-#baner{margin-left:620px;margin-top:-300px}
-#filmik_pierwszy{margin-top:8px;margin-left:5px;border:0.5mm ridge #000;background:#000}
-#filmik_drugi{margin-top:30px;margin-left:5px;border:0.5mm ridge #000;background:#000}
-#stopka {font-size:12px;color:#a3a3a3;margin-top:800px;margin-left:200px}
+#banery{margin-left:620px;margin-top:-320px}
+#filmik_pierwszy{margin-left:5px;border:0.5mm ridge #000;background:#000}
+#filmik_drugi{margin-top:27px;margin-left:5px;border:0.5mm ridge #000;background:#000}
+#stopka {font-size:12px;color:#a3a3a3;margin-top:450px;margin-left:200px}
 #stopka a {color:#a3a3a3;text-decoration:none}
