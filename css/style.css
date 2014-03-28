@@ -5,13 +5,15 @@ body {background:#000 url("../img/tlo.jpg") no-repeat center top}
 #menu li span {font-size:30px;display:inline-block;margin-top:-4px}
 #menu li a:hover, #menu #menu_aktywne a {color:#6a0000}
 .strona {margin:0 auto;width:920px}
-#logo {background:url(../img/logo.jpg) no-repeat;width:459px;height:44px}
+#logo {background:url(../img/logo.png) no-repeat;width:420px;height:44px}
+#trybik {background:url(../img/trybik.png) no-repeat;width:80px;height:80px}
 #plaster{background:url(../img/plaster.png) no-repeat;width:322px;height:55px}
 #salon_margaretka{background:url(../img/salon_margaretka.png) no-repeat;width:135px;height:133px;margin-top:-10px;margin-left:85px}
 #zsoio{background:url(../img/zsoio.png) no-repeat;width:135px;height:126px;margin-top:10px;margin-left:85px}
-h1 {margin-top:100px;margin-left:70px}
+h1 {margin-top:80px;margin-left:50px}
 h2 {font-size:26px;line-height:58px;padding-left:85px}
 h3 {font-size:26px;line-height:58px;padding-left:60px}
+h4 {margin-top:-75px;margin-left:140px}
 #kartka {text-align:justify;width:460px;margin-left:70px;margin-top:170px;line-height:30px}
 #kartka span {font-size:28px;display:inline-block;margin-top:-4px}
 .fiszka{margin-left:20px}
