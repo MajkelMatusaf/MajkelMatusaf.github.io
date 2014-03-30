@@ -87,3 +87,10 @@ td.att_03_kolumna {font-weight:normal;border-bottom:1px solid black}
 td.att_2_kolumna {width:70px;font-weight:normal;border-bottom:1px solid black;border-right:1px solid black;text-align:center}
 td.att_3_kolumna {font-weight:normal;border-bottom:1px solid black;text-align:right;padding-right:25px}
 tr.att_2_wiersz {font-weight:normal;border-bottom:1px solid black;text-align:center}
+.worksheet{font-size:13px}
+th.worksheet_1_kolumna {font-weight:normal;width:10px}
+th.worksheet_2_kolumna {font-weight:normal}
+th.worksheet_3_kolumna {font-weight:normal}
+td.worksheet_1_kolumna {font-weight:normal;width:10px}
+td.worksheet_2_kolumna {font-weight:normal}
+td.worksheet_3_kolumna {font-weight:normal;text-align:right}
