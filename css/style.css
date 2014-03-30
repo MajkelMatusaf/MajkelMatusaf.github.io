@@ -15,6 +15,7 @@ h1 {margin-top:80px;margin-left:50px}
 h2 {font-size:26px;line-height:58px;padding-left:85px}
 h3 {font-size:26px;line-height:58px;padding-left:60px}
 h4 {margin-top:-75px;margin-left:140px}
+h5 {font-weight:normal;font-size:10px;margin-top:-7px}
 #kartka {text-align:justify;width:460px;margin-left:70px;margin-top:170px;line-height:30px}
 #kartka span {font-size:28px;display:inline-block;margin-top:-4px}
 .fiszka{margin-left:20px}
@@ -41,8 +42,12 @@ h4 {margin-top:-75px;margin-left:140px}
 #stopka3 a {color:#a3a3a3;text-decoration:none}
 #stopka4{font-size:12px;color:#a3a3a3;margin-top:65px;margin-left:200px}
 #stopka4 a {color:#a3a3a3;text-decoration:none}
+#stopka5{font-size:12px;color:#a3a3a3;margin-top:72px;margin-left:200px}
+#stopka5 a {color:#a3a3a3;text-decoration:none}
 #map {height:460px;width:460px}
 #przycisk{margin-top:210px;margin-left:520px;width:70px;text-decoration:none}
+#przycisk2{margin-top:95px;margin-left:520px;width:70px;text-decoration:none}
+#przycisk3{margin-top:-55px;margin-left:10px;width:70px;text-decoration:none}
 .plan_zajec ,.plan_zajec td,.plan_zajec th{font-size:8px;text-align:center;padding:10px;border-collapse:collapse;table-layout:fixed;border:1px solid #000}
 .kurczaki{font-size:12px;width:460px;border-spacing:10px 0px}
 th.kurczaki_1_kolumna {font-weight:normal;text-align:right;font-style:italic;padding:0px}
@@ -73,3 +78,12 @@ th.populacja_1_kolumna {font-size:10px;font-weight:normal;text-align:center;bord
 td.populacja_1_kolumna {font-size:9px;font-weight:normal;text-align:right;border-right:1px solid black;padding-right:20px}
 th.populacja_2_kolumna {font-size:10px;font-weight:normal;text-align:center;border-bottom:1px solid black}
 td.populacja_2_kolumna {font-size:9px;font-weight:normal;text-align:right;padding-right:16px}
+.att{width:220px;font-size:10px;border-spacing:0px 0px;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black}
+th.att_1_kolumna {font-weight:normal;border-bottom:1px solid black;text-align:center}
+td.att_1_kolumna {font-weight:normal;border-bottom:1px solid black;border-right:1px solid black;text-align:right;padding-right:23px}
+td.att_01_kolumna {font-weight:normal;border-bottom:1px solid black;border-right:1px solid black}
+td.att_02_kolumna {font-weight:normal;border-bottom:1px solid black;border-right:1px solid black}
+td.att_03_kolumna {font-weight:normal;border-bottom:1px solid black}
+td.att_2_kolumna {width:70px;font-weight:normal;border-bottom:1px solid black;border-right:1px solid black;text-align:center}
+td.att_3_kolumna {font-weight:normal;border-bottom:1px solid black;text-align:right;padding-right:25px}
+tr.att_2_wiersz {font-weight:normal;border-bottom:1px solid black;text-align:center}
