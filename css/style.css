@@ -50,7 +50,7 @@ h5 {font-weight:normal;font-size:10px;margin-top:-7px}
 #przycisk{margin-top:210px;margin-left:520px;width:70px;text-decoration:none}
 #przycisk2{margin-top:95px;margin-left:520px;width:70px;text-decoration:none}
 #przycisk3{margin-top:-55px;margin-left:10px;width:70px;text-decoration:none}
-#przycisk4{margin-top:122px;margin-left:10px;width:70px;text-decoration:none}
+#przycisk4{margin-top:134px;margin-left:10px;width:70px;text-decoration:none}
 .plan_zajec ,.plan_zajec td,.plan_zajec th{font-size:8px;text-align:center;padding:10px;border-collapse:collapse;table-layout:fixed;border:1px solid #000}
 .kurczaki{font-size:12px;width:460px;border-spacing:10px 0px}
 th.kurczaki_1_kolumna {font-weight:normal;text-align:right;font-style:italic;padding:0px}
@@ -97,5 +97,17 @@ th.worksheet_3_kolumna {font-weight:normal}
 td.worksheet_1_kolumna {font-weight:normal;width:10px}
 td.worksheet_2_kolumna {font-weight:normal}
 td.worksheet_3_kolumna {font-weight:normal;text-align:right}
-.chart{font-size:12px}
-th.chart_3_kolumna {font-weight:normal}
+.chart{width:460px;font-size:12px;border-spacing:0px 0px}
+td.chart_1_kolumna {padding-left:15px}
+td.chart_01_kolumna {border-top:1px solid black}
+td.chart_02_kolumna {padding-left:15px;border-bottom:1px solid black;border-right:1px solid black}
+td.chart_002_kolumna {border-right:1px solid black;border-left:1px solid black}
+td.chart_0002_kolumna {padding-left:15px;border-bottom:1px solid black;border-left:1px solid black}
+td.chart_00002_kolumna {border-left:1px solid black}
+td.chart_000002_kolumna {border-left:1px solid black}
+th.chart_3_kolumna {padding-left:15px;font-weight:normal}
+td.chart_3_kolumna {padding-left:15px}
+td.chart_03_kolumna {padding-left:15px;border-bottom:1px solid black;border-left:1px solid black}
+td.chart_003_kolumna {padding-left:15px;border-bottom:1px solid black}
+td.chart_0003_kolumna {border-top:1px solid black}
+td.chart_00003_kolumna {border-left:1px solid black;border-top:1px solid black}
