@@ -44,10 +44,13 @@ h5 {font-weight:normal;font-size:10px;margin-top:-7px}
 #stopka4 a {color:#a3a3a3;text-decoration:none}
 #stopka5{font-size:12px;color:#a3a3a3;margin-top:72px;margin-left:200px}
 #stopka5 a {color:#a3a3a3;text-decoration:none}
+#stopka6{font-size:12px;color:#a3a3a3;margin-top:73px;margin-left:200px}
+#stopka6 a {color:#a3a3a3;text-decoration:none}
 #map {height:460px;width:460px}
 #przycisk{margin-top:210px;margin-left:520px;width:70px;text-decoration:none}
 #przycisk2{margin-top:95px;margin-left:520px;width:70px;text-decoration:none}
 #przycisk3{margin-top:-55px;margin-left:10px;width:70px;text-decoration:none}
+#przycisk4{margin-top:122px;margin-left:10px;width:70px;text-decoration:none}
 .plan_zajec ,.plan_zajec td,.plan_zajec th{font-size:8px;text-align:center;padding:10px;border-collapse:collapse;table-layout:fixed;border:1px solid #000}
 .kurczaki{font-size:12px;width:460px;border-spacing:10px 0px}
 th.kurczaki_1_kolumna {font-weight:normal;text-align:right;font-style:italic;padding:0px}
@@ -94,3 +97,5 @@ th.worksheet_3_kolumna {font-weight:normal}
 td.worksheet_1_kolumna {font-weight:normal;width:10px}
 td.worksheet_2_kolumna {font-weight:normal}
 td.worksheet_3_kolumna {font-weight:normal;text-align:right}
+.chart{font-size:12px}
+th.chart_3_kolumna {font-weight:normal}
